@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+# Simple Interest Calculator Project
 
 This project calculates **Simple Interest** using a shell script.
 
